@@ -1,4 +1,3 @@
 belajar-silex
 =============
-thanks to kodetalk.com for great tutorial
-
+thanks to kodetalk.com, for good tutorial :)
